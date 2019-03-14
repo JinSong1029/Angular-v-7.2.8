@@ -14,7 +14,6 @@ export class HeroesComponent implements OnInit {
     @Input() hero: Hero;
 
     heroes: Hero[];
-    // heroes = HEROES;
 
     selectedHero: Hero;
 
